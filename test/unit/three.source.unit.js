@@ -249,9 +249,11 @@ import './src/renderers/webgl/WebGLRenderLists.tests.js';
 
 
 //src/scenes
+import './src/scenes/ColorConfig.tests.js';
 import './src/scenes/Fog.tests.js';
 import './src/scenes/FogExp2.tests.js';
 import './src/scenes/Scene.tests.js';
+import './src/scenes/ThemeConfig.tests.js';
 
 
 //src/textures

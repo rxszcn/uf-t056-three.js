@@ -8,6 +8,8 @@ export { WebXRController } from './renderers/webxr/WebXRController.js';
 export { FogExp2 } from './scenes/FogExp2.js';
 export { Fog } from './scenes/Fog.js';
 export { Scene } from './scenes/Scene.js';
+export { parseColorConfig } from './scenes/ColorConfig.js';
+export { ThemeConfig } from './scenes/ThemeConfig.js';
 export { Sprite } from './objects/Sprite.js';
 export { LOD } from './objects/LOD.js';
 export { SkinnedMesh } from './objects/SkinnedMesh.js';
